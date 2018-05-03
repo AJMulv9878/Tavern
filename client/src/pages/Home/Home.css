@@ -1,0 +1,85 @@
+.sidebar-div {
+    height: 100%;
+    width: 10%;
+    background-color: #28313b;
+    float: left;
+    position: absolute;
+}
+
+.profilePic {
+    height: 40px;
+    border-radius: 10px;
+    float: left;
+}
+
+.user-div {
+    padding-top: 20px;
+}
+
+.profile-name {
+    float: right;
+}
+
+.user-div {
+    height: 50px;
+    border-bottom: solid 1px rgba(175,168,162,.2);
+    color: white;
+}
+
+.dropbtn {
+    width: 100%;
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    border-bottom: solid 1px rgba(175,168,162,.2);
+}
+
+.chat-list {
+    text-align: center;
+}
+
+.server-btn {
+    background-color: transparent;
+    width: 100%;
+    height: 40px;
+    border: none;
+    color: grey;
+}
+
+.server-btn:focus {
+    outline: none;
+    color: white;
+}
+
+.chat-list {
+    
+}
+
+.header-div {
+    background-color: #f2f1ed;
+    height: 69px;
+    width: 100%;
+    color: black;
+    margin: none;
+    padding-top: 1px;
+    border-bottom: solid 1px rgba(175,168,162,.2)
+    ;
+}
+
+.main-div {
+    float: left;
+    height: 940px;
+    width: 90%;
+    padding: none;
+    padding-left: 10%;
+    
+}
+
+.messages-div {
+    background-color: #f2f1ed;
+    height: 100%;
+    padding-top: 1px;
+}
+
+

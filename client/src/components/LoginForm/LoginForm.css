@@ -1,0 +1,65 @@
+.login-div {
+    background-color: rgba(24,25,28,.8);
+    height: 250px;
+    color: white;
+    margin: auto;
+    width: 250px;
+    text-align: center;
+    padding-top: 40px;
+    border-radius: 15px;
+}
+
+.email-label {
+    padding-right: 132px;
+    color: grey;
+}
+
+.password-label {
+    padding-right: 100px;
+    color: grey;
+}
+
+input {
+    background-color:transparent;
+    border: none;
+    border-bottom: solid 1px grey;
+    color: white;
+    padding-bottom: 5px;
+}
+
+.email-login {
+    padding-bottom: 10px;
+}
+
+input:focus {
+    outline: none;
+    border-bottom: solid 1px white;
+}
+
+.login-submit {
+    width: 169px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+
+.register-div {
+    font-size: 10px;
+}
+
+.register-text {
+    display: inline-block;
+}
+
+.register-link {
+    display: inline-block;
+}
+
+.input-group-btn {
+    color: black;
+    background-color: white;
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}

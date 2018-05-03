@@ -1,0 +1,47 @@
+.signup-div {
+    background-color: rgba(24,25,28,.8);
+    height: 300px;
+    color: white;
+    margin: auto;
+    width: 250px;
+    text-align: center;
+    padding-top: 40px;
+    border-radius: 15px;
+}
+
+.username-label {
+    padding-right: 100px;
+    color: grey;
+}
+
+.password-label {
+    padding-right: 100px;
+    color: grey;
+}
+
+input {
+    background-color:transparent;
+    border: none;
+    border-bottom: solid 1px grey;
+    color: white;
+    padding-bottom: 5px;
+}
+
+.signup-submit {
+    width: 169px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+
+.member-div {
+    font-size: 10px;
+}
+
+.member-text {
+    display: inline-block;
+}
+
+.member-link {
+    display: inline-block;
+}
